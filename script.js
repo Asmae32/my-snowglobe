@@ -3,11 +3,11 @@ const button = document.querySelector("#shake");
 const message = document.querySelector("#message");
 const messages = [
   "Someone still laughs at a joke you said.",
-  "The thing you are building counts, even half finished.",
+  "If you don't fail, you're not even trying.",
   "You are allowed to be a beginner for as long as you need.",
   "Someone is going to love you the way you are, be yourself and never change for someone else.",
-  "Hot chocolate tastes better after a hard day. You've earned one.",
-  "You ask good questions. That is the whole skill.",
+  "Starting late is only embarrassing when you think life is a race.",
+  "Lock in, work hard now, be proud later.",
 ];
 button.addEventListener("click", () => {
   globe.classList.add("shaking");
