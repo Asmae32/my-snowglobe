@@ -8,6 +8,7 @@ const messages = [
   "Someone is going to love you the way you are, be yourself and never change for someone else.",
   "Starting late is only embarrassing when you think life is a race.",
   "Lock in, work hard now, be proud later.",
+  "If someone is talking bad behind your back, leave them where they belong, behind you!"
 ];
 button.addEventListener("click", () => {
   globe.classList.add("shaking");
